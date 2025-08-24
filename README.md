@@ -13,6 +13,6 @@ This tool allows you to **protect your Python source code** by encoding it into 
 
 ## 🛠️ Usage
 ```bash
-   git clone https://github.com/sombrebongos/encryptit
-   cd encryptit
-   python enc.py
+git clone https://github.com/sombrebongos/encryptit
+cd encryptit
+python enc.py
